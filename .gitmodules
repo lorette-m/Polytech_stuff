@@ -1,3 +1,6 @@
 [submodule "DB_Coursework"]
 	path = DB_Coursework
 	url = https://github.com/lorette-m/DB_Coursework
+[submodule "OOP_Java_4th_semester"]
+	path = OOP_Java_4th_semester
+	url = https://github.com/lorette-m/OOP_Java_4th_semester
