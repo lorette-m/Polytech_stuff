@@ -7,3 +7,6 @@
 [submodule "Math_Progs_Repository"]
 	path = Math_Progs_Repository
 	url = https://github.com/lorette-m/Math_Progs_Repository
+[submodule "30001"]
+	path = 30001
+	url = https://github.com/lorette-m/30001
