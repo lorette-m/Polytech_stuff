@@ -4,3 +4,6 @@
 [submodule "OOP_Java_4th_semester"]
 	path = OOP_Java_4th_semester
 	url = https://github.com/lorette-m/OOP_Java_4th_semester
+[submodule "Math_Progs_Repository"]
+	path = Math_Progs_Repository
+	url = https://github.com/lorette-m/Math_Progs_Repository
