@@ -13,3 +13,6 @@
 [submodule "MatLog_Coursework"]
 	path = MatLog_Coursework
 	url = https://github.com/lorette-m/MatLog_Coursework.git
+[submodule "APS_Coursework"]
+	path = APS_Coursework
+	url = https://github.com/lorette-m/APS_Coursework.git
