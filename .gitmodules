@@ -10,3 +10,6 @@
 [submodule "30001"]
 	path = 30001
 	url = https://github.com/lorette-m/30001
+[submodule "MatLog_Coursework"]
+	path = MatLog_Coursework
+	url = https://github.com/lorette-m/MatLog_Coursework.git
