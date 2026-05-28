@@ -16,3 +16,6 @@
 [submodule "APS_Coursework"]
 	path = APS_Coursework
 	url = https://github.com/lorette-m/APS_Coursework.git
+[submodule "APS_OS"]
+	path = APS_OS
+	url = https://github.com/lorette-m/APS_OS.git
